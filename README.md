@@ -1,6 +1,7 @@
 Cadastro de Usuários – Backend
 
-![Imagem de Capa](./API/assets/servidor-png.png)
+![Imagem de Capa](API/assets/servidor-png.png)
+
 
 📌 Sobre o Projeto
 
